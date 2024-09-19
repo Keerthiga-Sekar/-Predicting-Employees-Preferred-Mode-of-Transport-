@@ -14,7 +14,6 @@ The objective is to build various Machine Learning models on this data set and b
 - Boosting Classifier (AdaBoost
 - Gradient Boosting
 - XGBoost)
-- Stacking Classifier
 - Hyperparameter Tuning using GridSearchCV
 
 ### Insights:
