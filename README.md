@@ -9,7 +9,6 @@ The objective is to build various Machine Learning models on this data set and b
 ### Skills & Tools Covered
 - EDA
 - Data Preprocessing
-- Customer Profiling
 - Bagging Classifier (Bagging and Random Forest)
 - Boosting Classifier (AdaBoost
 - Gradient Boosting
